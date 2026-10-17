@@ -1,0 +1,5 @@
+Name: Salamat
+Surname: Moldashev
+Group: IT2-2308
+Student ID: 37461
+Course: DevOps
