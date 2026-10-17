@@ -13,3 +13,4 @@ DevOps Laboratory Work 1: Linux, Git, Docker, Jenkins.
 - `config/` - application configuration
 - `Dockerfile`, `docker-compose.yml` - containerization
 - `Jenkinsfile` - CI pipeline (Checkout, Build, Test, Docker Build, Docker Run)
+Added in development branch
